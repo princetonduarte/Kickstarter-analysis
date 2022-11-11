@@ -27,4 +27,4 @@ The biggest challenge I encountered was not inputting the correct parameters for
 
 - The data that was collected could have been more specific or using the most current data would be more informative. 
 
-- A bar chart like the [Outcomes Based on Goal](https://github.com/princetonduarte/kickstarter-analysis/blob/b211a2625b40c87e651b23da4d9f55ab1b94fcbb/Outcomes_vs_Goals_column.png) could have been used and presented the information easier to read.
+- A bar chart like the [Outcomes Based on Goal](https://github.com/princetonduarte/Kickstarter-analysis/blob/main/Outcomes_vs_Goals_column.png) could have been used and presented the information easier to read.
